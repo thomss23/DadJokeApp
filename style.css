@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(119, 116, 113);
+    min-height: 100vh;
+}
+
+.jumbotron-fluid{
+    background-color: rgb(48, 47, 37);
+    color: white;
+    text-align: center;
+}
+.card{
+    background-color: darkslategray;
+    color: wheat;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    width:50%
+}
+
+.btn{
+    margin-top: 20px;
+    padding:15px 60px 15px 60px;
+}
+
+.card-text{
+    font-size: 1.5em;
+    color: white;
+}
+.compiling{
+    margin-left: 20%;
+}
+.computer{
+    font-size: 2.2em;
+    font-family: monospace;
+    margin-top: 5%;
+    padding:10px;
+}
+.output{
+    color:white;
+}
